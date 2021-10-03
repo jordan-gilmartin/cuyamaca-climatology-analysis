@@ -15,7 +15,7 @@ The first dataset from NCEI was data from Cuyamaca, CA (Station No. 042239) cove
 
 - Arrange the monthly Cuyamaca Tmax, Tmin and Tmean data from January 1961 to December 1990 into a DataFrame.
 
-![Pivot](Images/TMIN - Pivot Table.png)
+![Pivot](Images/tmin_Pivot_Table.png)
 
 - Calculate the August climatology of Tmax, Tmin and Tmean for that time period.  
 
