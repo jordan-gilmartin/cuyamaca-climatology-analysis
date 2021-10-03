@@ -19,11 +19,11 @@ The first dataset from NCEI was data from Cuyamaca, CA (Station No. 042239) cove
 
 - Calculate the August climatology of Tmax, Tmin and Tmean for that time period.  
 
-![August Climatology](Images/August Climatology.png)
+![August Climatology](Images/August_Climatology.png)
 
 - Compute standard deviation of Tmax, Tmin and Tmean for that time period.  
 
-![Standard Deviation](Images/Standard Deviation.png)
+![Standard Deviation](Images/Standard_Deviation.png)
 
 - Plot the Cuyamaca January Tmin time series from 1951 to 2010
 - Plot regression trend lines of Tmin on the same plot for the following time periods:
@@ -32,7 +32,7 @@ The first dataset from NCEI was data from Cuyamaca, CA (Station No. 042239) cove
   - 1971 to 2010
   - 1981 to 2010
 
-![January TMIN Plot](Images/January TMIN time series with Regression.png)
+![January TMIN Plot](Images/January_TMIN_time_series_with_Regression.png)
 
 
 
