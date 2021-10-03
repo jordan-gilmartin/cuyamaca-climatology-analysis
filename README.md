@@ -13,7 +13,7 @@ This project was an analysis of three different datasets that all were long term
 
 The first dataset from NCEI was data from Cuyamaca, CA (Station No. 042239) covering the years 1887 to 2014.  The requirements were to:
 
-- Arrange the monthly Cuyamaca Tmax, Tmin and Tmean data from January 1961 to December 1990 into a DataFrame.
+- Arrange the monthly Cuyamaca Max Temperature (Tmax), Min Temperature (Tmin) and Mean Temperature (Tmean) data from January 1961 to December 1990 into a DataFrame.
 
 ![Pivot](Images/tmin_Pivot_Table.png)
 
