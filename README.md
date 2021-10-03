@@ -32,5 +32,7 @@ The first dataset from NCEI was data from Cuyamaca, CA (Station No. 042239) cove
   - 1971 to 2010
   - 1981 to 2010
 
+![January TMIN Plot](Images/January TMIN time series with Regression.png)
+
 
 
